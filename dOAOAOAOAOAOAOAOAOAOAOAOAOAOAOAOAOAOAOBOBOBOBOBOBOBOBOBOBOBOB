@@ -1,0 +1,29 @@
+[33mcommit 1faf304c7bdac522844b04788376b825bb8d848b[m[33m ([m[1;36mHEAD -> [m[1;32mnew_branch[m[33m)[m
+Author: goob <mpnyirongo@gmail.com>
+Date:   Tue Oct 9 06:01:49 2018 +0000
+
+    added  a new line to the readme
+
+[33mcommit 0da9aa52fabeff3b02dd3a41863f795d96417ccc[m[33m ([m[1;32mmaster[m[33m, [m[1;32mdev[m[33m)[m
+Author: goob <mpnyirongo@gmail.com>
+Date:   Tue Oct 9 05:53:55 2018 +0000
+
+    Edited the title
+
+[33mcommit 03c9d0a39c492fd21f6daf010524bec23801fd5c[m
+Author: goob <mpnyirongo@gmail.com>
+Date:   Tue Oct 9 05:52:56 2018 +0000
+
+    Added the title
+
+[33mcommit 8201233aa7547701d590183ddb45dccfbad05c7b[m
+Author: goob <mpnyirongo@gmail.com>
+Date:   Tue Oct 9 05:48:35 2018 +0000
+
+    Added the system file
+
+[33mcommit 91e142318c8467f4c58e58313350e923be8b15ae[m
+Author: goob <mpnyirongo@gmail.com>
+Date:   Tue Oct 9 05:46:10 2018 +0000
+
+    Added the README markdown file
