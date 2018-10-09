@@ -1,1 +1,2 @@
 puts o
+puts o
